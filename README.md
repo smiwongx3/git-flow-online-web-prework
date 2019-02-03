@@ -44,6 +44,8 @@ Before altering your code base, open `index.html` in the browser. In the first p
   </div>
 </div>
 <!-- end turtle picture and caption -->
+
+
 ```
 
 * Open up your `index.html` and see how the page looks.
